@@ -1,10 +1,9 @@
 # Employee_Management_System
-**The link provided for hosting is not secure (uses http:/ and not https:/ ) so google might block it, so give "continue to site" to view the hosted website. 
-For Admin login : 
+**The link provided for hosting is not secure (uses http:/ and not https:/ ) so google might block it, so give "continue to site" to view the hosted website.** 
+**For Admin login : 
 USERNAME: admin 
-PASSWORD: admin1
-Hosted wesite link : http://empmgmtsystem.great-site.net/   .** 
-
+PASSWORD: admin1.**
+**Hosted wesite link : http://empmgmtsystem.great-site.net/   .** 
 
 END-USER FEATURES 
 Landing/Home Page: Provide a user-friendly landing page with options: ● Show all Employees. 
